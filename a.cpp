@@ -1,3 +1,6 @@
+// 自明解
+// ステップ3に行かず、山を1つずつ崩す
+
 #include <bits/stdc++.h>
 using namespace std;
 
